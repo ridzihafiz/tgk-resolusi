@@ -5,3 +5,4 @@ Rencana Penjualan
 - online media
   * IG
 - apps
+  * iOS
