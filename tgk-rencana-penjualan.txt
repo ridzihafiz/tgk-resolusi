@@ -1,5 +1,7 @@
 Rencana Penjualan
 
 - marketing
+  * market place
 - online media
+  * IG
 - apps
